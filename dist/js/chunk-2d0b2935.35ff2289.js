@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b2935"],{2562:function(e,n,c){"use strict";c.r(n);var t=function(){var e=this,n=e.$createElement,c=e._self._c||n;return c("div",[e._v("VideoManage")])},a=[],u={},d=u,i=c("2877"),o=Object(i["a"])(d,t,a,!1,null,"c7df1adc",null);n["default"]=o.exports}}]);
+//# sourceMappingURL=chunk-2d0b2935.35ff2289.js.map
